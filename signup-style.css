@@ -1,0 +1,38 @@
+body{
+    /* background-color: rgb(226, 215, 200); */
+ }
+ 
+ 
+  .container_form
+  {
+    
+    margin-top: 180px;
+    background-color: rgb(201, 225, 246);
+     max-width: 500px;
+     width: 100%;
+     margin-left: 33% ;
+     padding: 20px;
+     border-radius: 10px;
+    
+  }
+ .upld{
+    margin-right: 20px;
+    cursor: pointer;
+ }
+  
+ 
+  .container_form .title
+  {
+       font-size: 24px;
+       font-weight: 650;
+       margin-bottom: 10px;
+       text-transform: uppercase;
+       text-align: center;
+  }
+ 
+  .btn {
+    margin-left: 180px;
+    margin-top: 10px;
+ 
+  }
+ 
